@@ -1,1 +1,2 @@
- who | wc -l
+#!/usr/bin/bash 
+who | wc -l
